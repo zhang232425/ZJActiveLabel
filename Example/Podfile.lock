@@ -1,0 +1,16 @@
+PODS:
+  - ZJActiveLabel (0.1.0)
+
+DEPENDENCIES:
+  - ZJActiveLabel (from `../`)
+
+EXTERNAL SOURCES:
+  ZJActiveLabel:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZJActiveLabel: 37970ddefe241f482b43893ca66868c0560fac14
+
+PODFILE CHECKSUM: 44efe31a2ff6c1d265d73e236379f73ea53c3f7c
+
+COCOAPODS: 1.11.2
