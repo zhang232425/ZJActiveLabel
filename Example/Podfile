@@ -5,7 +5,6 @@ source 'git@github.com:zhang232425/ZJSpecs.git'
 source 'https://github.com/CocoaPods/Specs.git'
 install! 'cocoapods', :deterministic_uuids => false
 
-
 target 'ZJActiveLabel_Example' do
   pod 'ZJActiveLabel', :path => '../'
 
